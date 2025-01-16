@@ -218,7 +218,8 @@ server <- function(input, output) {
         la capacidad de generación de electricidad renovable per cápita, los flujos financieros hacia países en desarrollo 
         para energía sostenible y la proporción de energía renovable en el consumo final de energía. 
         La recopilación de estos datos permite analizar tendencias y patrones en el desarrollo de la energía sostenible 
-        a nivel mundial durante el período 2000-2020.")
+        a nivel mundial durante el período 2000-2020. El código del proyecto está disponible con licencia libre en 
+        <a href='https://github.com/darguellesUOC/PRA2-Visualizacion-de-datos/' target='_blank'>GitHub</a>.")
   })
   
   # Gráfico Resumen General
